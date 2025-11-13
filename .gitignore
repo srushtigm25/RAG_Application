@@ -1,3 +1,14 @@
+# Virtual environments
 .venv/
 rag_venv_new/
-.env/
+
+# Environment files
+.env
+
+# Vector DBs
+vectorstore_chroma/
+vectorstore_test/
+
+# OS / editor junk
+.DS_Store
+__pycache__/
